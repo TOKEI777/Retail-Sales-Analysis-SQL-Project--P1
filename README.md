@@ -31,10 +31,12 @@ The goal of this project is to practice SQL-based data analysis, including data 
 ---
 
 ## Project Structure
-├── Query.sql # SQL queries for analysis
-├── import_csv_to_sqlite.py # Python script to load CSV into SQLite
-├── retail_sales.db # SQLite database
-└── README.md
+.
+├── Query.sql                  # SQL queries for data cleaning and analysis
+├── import_csv_to_sqlite.py    # Load CSV data into SQLite database
+├── retail_sales.db            # SQLite database with cleaned data
+└── README.md                  # Project documentation
+
 
 
 ---
