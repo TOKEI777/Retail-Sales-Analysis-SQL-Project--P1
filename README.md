@@ -15,7 +15,7 @@ The goal of this project is to practice SQL-based data analysis, including data 
 ## Tools & Technologies
 - SQLite
 - SQL (CTEs, CASE statements, window functions)
-- Python (to transform csv into SQL database)
+- Python (to transform CSV into SQL database)
 - VS Code
 
 ---
@@ -39,7 +39,7 @@ The goal of this project is to practice SQL-based data analysis, including data 
 ├── retail_sales.db            # SQLite database with cleaned data
 └── README.md                  # Project documentation
 
-
+```
 
 ---
 
